@@ -488,7 +488,7 @@ Her pozisyon için 2 seçenek (a veya b) vardır ve 3 pozisyon var:
 aaa, aab, aba, abb, baa, bab, bba, bbb
 ```
 
-Genel kural: |Σ| = k alfabe için uzunluğu tam n olan kelime sayısı = **kⁿ**
+Genel kural: Alfabede kaç farklı sembol varsa **(k)**, kelimenin uzunluğu **n** ise, toplam kelime sayısı = **kⁿ**. 
 
 ---
 
